@@ -55,6 +55,6 @@
 ### ❓ Soporte
 
 En caso de dudas o errores, contacta al desarrollador responsable:
-**Duván Hernández Figueroa** – [duvan.email@ejemplo.com](mailto:duvan.email@ejemplo.com)
+**Duván Hernández Figueroa** – [duvanherfi@gmail.com](mailto:duvan.email@ejemplo.com)
 
 ---

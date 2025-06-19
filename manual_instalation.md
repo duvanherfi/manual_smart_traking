@@ -21,11 +21,11 @@
 
 ---
 
-### 1. **Clonar el repositorio**
+### 1. **Clonar repositorios**
 
 ```bash
-git clone https://github.com/usuario/smart-tracking.git
-cd smart-tracking
+git clone https://github.com/duvanherfi/smart-tracking-back
+git clone https://github.com/duvanherfi/smartTracking-flutter
 ```
 
 ---
@@ -33,20 +33,17 @@ cd smart-tracking
 ### 2. **Instalación del backend**
 
 ```bash
-cd backend
+cd smart-tracking-back
 bundle install
 yarn install
-rails db:create
-rails db:migrate
 rails s
 ```
 
 ---
 
 ### 3. **Instalación del frontend**
-
+cd smartTracking-flutter
 ```bash
-cd ../frontend
 flutter pub get
 flutter run
 ```
