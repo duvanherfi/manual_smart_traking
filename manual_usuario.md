@@ -8,7 +8,7 @@
 
 * Tener una cuenta activa en la aplicación.
 * Conexión a internet estable.
-* Dispositivo móvil con sistema Android o iOS, o acceso web.
+* Dispositivo móvil con sistema Android.
 
 ---
 
@@ -31,23 +31,24 @@
 ### 🛡️ Crear geocerca automática
 
 1. Dirígete a la sección **"Geocercas"**.
-2. Pulsa el botón **"Generar automáticamente"**.
-3. El sistema analizará las ubicaciones frecuentes y generará una zona virtual de control.
-4. Guarda la geocerca con un nombre personalizado.
+2. Pulse el icono +
+3. Pulsa el botón **Recomendado**.
+4. El sistema analizará las ubicaciones frecuentes y generará una zona virtual de control.
+5. Guarda la geocerca con un nombre personalizado.
 
 ---
 
 ### 🔔 Alertas y notificaciones
 
 * Recibirás notificaciones si un vehículo sale de una geocerca definida.
-* Puedes consultar el historial de alertas desde el menú lateral.
+* Puedes consultar el historial de alertas desde el icono de notificación.
 
 ---
 
 ### ⚙️ Ajustes y configuración
 
-* Modifica tu perfil, contraseña o preferencias desde la sección **"Configuración"**.
-* Activa o desactiva notificaciones según tus necesidades.
+* Modifica tu perfil, contraseña o preferencias desde la sección **"Datos de usuario"** del menú lateral.
+* Activa o desactiva notificaciones según tus necesidades en configuración de alertas del menú lateral.
 
 ---
 
@@ -57,5 +58,3 @@ En caso de dudas o errores, contacta al desarrollador responsable:
 **Duván Hernández Figueroa** – [duvan.email@ejemplo.com](mailto:duvan.email@ejemplo.com)
 
 ---
-
-¿Quieres también una versión imprimible en Word o PDF de este manual? Puedo prepararla para ti.

@@ -65,5 +65,3 @@ Crear un archivo `.env` en ambos entornos para configurar claves y endpoints si 
 * App móvil/web desde Flutter en el emulador o navegador según plataforma
 
 ---
-
-Si tu aplicación tiene despliegue en producción (por ejemplo, en Heroku o Vercel), puedo ayudarte a incluir esa parte también. ¿Lo deseas?
