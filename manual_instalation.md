@@ -9,7 +9,7 @@
 
 * Ruby (versión recomendada: 3.x)
 * Rails (versión recomendada: 7.x)
-* PostgreSQL o SQLite
+* MongoDB
 * Node.js y Yarn (para compilar assets)
 * Git
 
